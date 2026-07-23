@@ -1,5 +1,5 @@
 # 💫 About Me:
-NAMASTE! I'm Harsh Vardhan, 18yrs old (he/him).<br>Studying ECE<br>I'm currently studying for my entrance exams.<br>I love motorsports and obsessed with motorcycles and games.<br>FUN FACT: i'm not as stupid as you think i'm, i'm just lazy!<br><br>
+Hey! I'm Harsh Vardhan, 18yrs old (he/him).<br>Studying ECE<br>I love motorsports and i have a crazy obsession of motorcycles and games.<br>FunFact: Cosmic rays constantly flip bits in modern RAM<br><br>
 
 
 ## 🌐 Socials:
