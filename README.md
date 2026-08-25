@@ -31,4 +31,13 @@ Hey! I'm Harsh Vardhan, 18yrs old (he/him).<br>Studying ECE<br>I love motorsport
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/harshh-vs/harshh-vs/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/harshh-vs/harshh-vs/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/harshh-vs/harshh-vs/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/harshh-vs/harshh-vs/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 <!---LeetCode Topics End-->
