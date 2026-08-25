@@ -24,3 +24,11 @@ Hey! I'm Harsh Vardhan, 18yrs old (he/him).<br>Studying ECE<br>I love motorsport
 ---
 [![](https://komarev.com/ghpvc/?username=harshh-vs&icon=2&color=1)](https://visitcount.itsvg.in)
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/harshh-vs/harshh-vs/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+<!---LeetCode Topics End-->
