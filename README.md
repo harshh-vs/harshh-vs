@@ -7,7 +7,7 @@
 [![GitHub](https://skillicons.dev/icons?i=github)](https://www.github.com/harshh-vs)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/hrshvs?utm_source=qr&stkn=MW5sazkxZHR1eDRkZw==)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/harsh-vardhan-sharma-a88722424?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[![email](https://skillicons.dev/icons?i=gmail)](mailt0:vardhanplays@gmail.com) 
+[![email](https://skillicons.dev/icons?i=gmail)](mailto:vardhanplays@gmail.com) 
 [![Discord](https://skillicons.dev/icons?i=discord)](https://www.discord.com/users/1373538087862538312)
 [![Spotify](https://skillicons.dev/icons?i=spotify)](https://open.spotify.com/user/31x7563rrvaxzl4kzd7fz3bh6wqe?si=5c34a82c023548b0)
 
