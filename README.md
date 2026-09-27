@@ -1,8 +1,11 @@
-<h1 align="center">Hey <img src="[https://slackmojis.com/emojis/7421-typingcat/download]" height="30px" width="30px"> I'm Harsh Vardhan Sharma</a></h1>
+<h1 align="center">HEY <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" height="35px" width="35px">&nbsp; I'M HARSH VARDHAN SHARMA</a></h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=2000&pause=1000&random=true&width=1100&height=55&lines=Electronics+%26+Communication+Engineering+Major;Web+Developer;Vibecoding+Enthusiast" alt="Typing SVG" /></a>
 
-## 📫 Connect with me
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="800">
+
+## 📫 Connect with me   <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif"  width="35px">
 
 [![GitHub](https://skillicons.dev/icons?i=github)](https://www.github.com/harshh-vs)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/hrshvs?utm_source=qr&stkn=MW5sazkxZHR1eDRkZw==)
@@ -11,7 +14,7 @@
 [![Discord](https://skillicons.dev/icons?i=discord)](https://www.discord.com/users/1373538087862538312)
 [![Spotify](https://skillicons.dev/icons?i=spotify)](https://open.spotify.com/user/31x7563rrvaxzl4kzd7fz3bh6wqe?si=5c34a82c023548b0)
 
-## ⚙ Languages and Frameworks
+## ⚙ Languages and Frameworks <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="30px" width="30px">
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -26,7 +29,8 @@
     <img src="https://skillicons.dev/icons?i=git,vscode,figma&perline=5" />
   </a>
 </p>
----
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1200">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
@@ -36,7 +40,7 @@
 
 ---
 
-# 📊 GitHub Stats: 
+# 📊 GitHub Stats <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
 ![](https://github-readme-stats.shion.dev/api?username=harshh-vs&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ![](https://streak-stats.demolab.com/?user=harshh-vs&theme=dark&hide_border=false)<br/>
@@ -46,14 +50,14 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=harshh-vs&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote Of The Day <img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" height="30px" width="30px">&nbsp; 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo  <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="35px">&nbsp;
 ![](https://github-contributor-stats.vercel.app/api?username=harshh-vs&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!---LeetCode Topics Start-->
-# LeetCode Topics
+# LeetCode Topics <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="35px">&nbsp;
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
