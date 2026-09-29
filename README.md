@@ -1,6 +1,6 @@
 <h1 align="center">HEY <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" height="35px" width="35px">&nbsp; I'M HARSH VARDHAN SHARMA</a></h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=2000&pause=1000&random=true&width=1100&height=55&lines=Electronics+%26+Communication+Engineering+Major;Web+Developer;Vibecoding+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=2000&pause=1000&random=true&width=1100&height=55&lines=ELECTRONICS+%26+COMMUNICATION+ENGINEERING+MAJOR;WEB+DEVELOPER;VIBECODING+ENTHUSIAST" alt="Typing SVG" /></a>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="800">
