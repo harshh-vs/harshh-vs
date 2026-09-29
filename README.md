@@ -73,7 +73,7 @@
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/harshh-vs/harshh-vs/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 <!---LeetCode Topics End-->
 
-⭐ **If you like my work, feel free to star my repo and follow me!** 🌟
+⭐ **If you like my work, feel free to star my repo and follow me!** ⭐
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
